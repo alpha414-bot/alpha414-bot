@@ -1,7 +1,7 @@
 
 ### **🚀 About Me**  
-**Miracle Adigun**
-**Alpha**
+`<name>`**Miracle Adigun**`</name>`
+`<nickname>`**Alpha**`</nickname>`
 
 I am a **software developer** specializing in:  
 💻 **Web Development** (React, Next.js, TypeScript)  
@@ -9,7 +9,7 @@ I am a **software developer** specializing in:
 ⚙️ **Backend Engineering** (Python FastAPI, Node.js, Laravel, Java)  
 ☁️ **Cloud & DevOps** (Firebase, GitHub Actions)  
 
-[![Alpha's Card](https://stats-gamma-one.vercel.app/api?username=alpha414-bot&hide=contribs,issues&show_icons=true&theme=merko)](https://github.com/alpha414-bot)
+[![Alpha's Card](https://stats-gamma-one.vercel.app/api?username=alpha414-bot&hide=contribs,issues&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/alpha414-bot)
 
 I am **passionate** about:  
 ✅ **Building scalable applications**  
@@ -61,8 +61,8 @@ I am **passionate** about:
 ### **📫 Connect with Me**  
 🌐 **Portfolio:** [alphaisx.web.app](https://alphaisx.web.app/)  
 💼 **LinkedIn:** [linkedin.com/in/miracle-adigun](https://linkedin.com/in/yourname)  
-🐦 **Twitter:** [twitter.com/yourhandle](https://twitter.com/yourhandle)  
+🐦 **Twitter:** [twitter.com/@adigun_miracle](https://twitter.com/@adigun_miracle)  
 📧 **Email:** alphasoft2021@gmail.com  
 
 
-[![Top Langs](https://stats-gamma-one.vercel.app/api/top-langs/?username=alpha414-bot&layout=pie&theme=merko)](https://github.com/alpha414-bot)
+[![Top Langs](https://stats-gamma-one.vercel.app/api/top-langs/?username=alpha414-bot&layout=pie&theme=transparent)](https://github.com/alpha414-bot)
