@@ -1,7 +1,7 @@
 
 ### **🚀 About Me**  
-<name>**Miracle Adigun**</name>
-<nickname>**Alpha**</nickname>
+**Miracle Adigun**
+**Alpha**
 
 I am a **software developer** specializing in:  
 💻 **Web Development** (React, Next.js, TypeScript)  
