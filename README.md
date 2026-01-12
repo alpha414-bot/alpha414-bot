@@ -1,7 +1,7 @@
 
 ### **🚀 About Me**  
-`<name>`**Miracle Adigun**`</name>`
-`<nickname>`**Alpha**`</nickname>`
+`<name>`**James Andrew**`</name>`
+`<nickname>`**Augustine**`</nickname>`
 
 I am a **software developer** specializing in:  
 💻 **Web Development** (React, Next.js, TypeScript)  
@@ -28,10 +28,6 @@ I am **passionate** about:
 ---
 
 ### **📌 Projects**  
-🚀 **SpekBrowser** – A custom web browser with:  
-✔️ URL validation & navigation handling  
-✔️ Debugger UI for logging user interactions  
-✔️ Advanced dataset & interaction management  
 
 💰 **Delux (App & Website)** – A financial platform with:  
 ✔️ Wallet & payment integration (Flutterwave API)  
@@ -41,10 +37,7 @@ I am **passionate** about:
 🤖 **SurveyBot: 2025 Project** – A dynamic survey automation bot with:  
 ✔️ Multi-threaded Selenium automation  
 ✔️ Context-aware error handling  
-
-💼 **Bumia Partners & Bumia Agency Tech** – Corporate websites with:  
-✔️ GitHub OAuth authentication  
-✔️ Repository & pull request tracking  
+  
 
 ---
 
@@ -59,10 +52,10 @@ I am **passionate** about:
 ---
 
 ### **📫 Connect with Me**  
-🌐 **Portfolio:** [alphaisx.web.app](https://alphaisx.web.app/)  
-💼 **LinkedIn:** [linkedin.com/in/miracle-adigun](https://linkedin.com/in/yourname)  
-🐦 **Twitter:** [twitter.com/@adigun_miracle](https://twitter.com/@adigun_miracle)  
-📧 **Email:** alphasoft2021@gmail.com  
+🌐 **Portfolio:** [.web.app](https://.web.app/)  
+💼 **LinkedIn:** [linkedin.com/in/](https://linkedin.com/in/)  
+🐦 **Twitter:** [twitter.com/](https://twitter.com/)  
+📧 **Email:** user@gmail.com
 
 
 [![Top Langs](https://stats-gamma-one.vercel.app/api/top-langs/?username=alpha414-bot&layout=pie&theme=transparent)](https://github.com/alpha414-bot)
