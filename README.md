@@ -1,9 +1,9 @@
 
 ### **🚀 About Me**  
-`<name>`**James Andrew**`</name>`
-`<nickname>`**Augustine**`</nickname>`
+`<name>`**Churchill Ezeigbebe**`</name>`
+`<nickname>`**Church**`</nickname>`
 
-I am a **software developer** specializing in:  
+I am a third year  **Cyber security student and software developer** specializing in:  
 💻 **Web Development** (React, Next.js, TypeScript)  
 📱 **Mobile Development** (React Native, Flutter)  
 ⚙️ **Backend Engineering** (Python FastAPI, Node.js, Laravel, Java)  
