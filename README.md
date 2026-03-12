@@ -52,7 +52,7 @@ I am **passionate** about:
 ---
 
 ### **📫 Connect with Me**  
-🌐 **Portfolio:** [.web.app](https://lanstur.com/)  
+🌐 **Portfolio:** [Link](https://lanstur.com/)  
 💼 **LinkedIn:** [linkedin.com/in/](https://linkedin.com/in/)   
 📧 **Email:** churchillezeigbebe@gmail.com
 
