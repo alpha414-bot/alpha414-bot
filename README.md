@@ -52,10 +52,9 @@ I am **passionate** about:
 ---
 
 ### **📫 Connect with Me**  
-🌐 **Portfolio:** [.web.app](https://.web.app/)  
-💼 **LinkedIn:** [linkedin.com/in/](https://linkedin.com/in/)  
-🐦 **Twitter:** [twitter.com/](https://twitter.com/)  
-📧 **Email:** user@gmail.com
+🌐 **Portfolio:** [.web.app](https://lanstur.com/)  
+💼 **LinkedIn:** [linkedin.com/in/](https://linkedin.com/in/)   
+📧 **Email:** churchillezeigbebe@gmail.com
 
 
 [![Top Langs](https://stats-gamma-one.vercel.app/api/top-langs/?username=alpha414-bot&layout=pie&theme=transparent)](https://github.com/alpha414-bot)
