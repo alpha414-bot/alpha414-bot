@@ -53,8 +53,8 @@ I am **passionate** about:
 
 ### **📫 Connect with Me**  
 🌐 **Portfolio:** [Link](https://lanstur.com/)  
-💼 **LinkedIn:** [linkedin.com/in/](https://linkedin.com/in/)   
+💼 **LinkedIn:** [linkedin.com/in/]([https://linkedin.com/in/](https://www.linkedin.com/in/churchill-ezeigbebe-655610209/)   
 📧 **Email:** churchillezeigbebe@gmail.com
 
 
-[![Top Langs](https://stats-gamma-one.vercel.app/api/top-langs/?username=alpha414-bot&layout=pie&theme=transparent)](https://github.com/alpha414-bot)
+
